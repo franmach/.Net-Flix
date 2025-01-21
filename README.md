@@ -70,6 +70,12 @@ El proyecto utiliza tecnologías modernas y un enfoque multiplataforma, permitie
 ---
 
 ## Capturas de Pantalla
+![image](https://github.com/user-attachments/assets/284476bb-2836-4a35-9e04-3d9d99ee4124)
+![image](https://github.com/user-attachments/assets/ab7ed748-fe33-4bfc-a9ac-53277c9056ce)
+![image](https://github.com/user-attachments/assets/9dc9bec8-0f10-45f0-ab53-7b988d5a2c40)
+![image](https://github.com/user-attachments/assets/955510c3-24fb-47ea-ad79-e1cfa64e23d0)
+![image](https://github.com/user-attachments/assets/2b50a851-171d-40d9-b5bb-31c7952caf06)
+![image](https://github.com/user-attachments/assets/ee98936b-ee81-4133-829e-983eecb53298)
 
 ---
 
